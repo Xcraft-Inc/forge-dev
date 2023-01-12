@@ -1,0 +1,198 @@
+[
+  {
+    "Module": "forge/lib/goblin-shaman",
+    "Version": "v1.1.1",
+    "Hash": "a3f5ba0",
+    "Dev": "master",
+    "Prod": "1.1"
+  },
+  {
+    "Module": "forge/lib/goblin-elasticsearch",
+    "Version": "v2.1.4",
+    "Hash": "af73fde",
+    "Dev": "master",
+    "Prod": "2.1"
+  },
+  {
+    "Module": "forge/lib/goblin-garona",
+    "Version": "v1.0.1",
+    "Hash": "aeedd12",
+    "Dev": "master",
+    "Prod": "1.0"
+  },
+  {
+    "Module": "forge/lib/goblin-workshop",
+    "Version": "v3.1.3",
+    "Hash": "acb6243",
+    "Dev": "master",
+    "Prod": "3.1"
+  },
+  {
+    "Module": "forge/lib/xcraft-core-goblin",
+    "Version": "v5.7.1",
+    "Hash": "774f119",
+    "Dev": "master",
+    "Prod": "5.7"
+  },
+  {
+    "Module": "forge/lib/goblin-zeppelin",
+    "Version": "v3.0.0",
+    "Hash": "b761e7e",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "forge/lib/goblin-builder",
+    "Version": "v3.1.6",
+    "Hash": "c87cc26",
+    "Dev": "master",
+    "Prod": "3.1"
+  },
+  {
+    "Module": "forge/lib/goblin-webpack",
+    "Version": "v3.0.0-alpha1",
+    "Hash": "a40174c",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "forge/lib/goblin-warehouse",
+    "Version": "v4.0.0",
+    "Hash": "97b3949",
+    "Dev": "master",
+    "Prod": "4.0"
+  },
+  {
+    "Module": "forge/lib/goblin-nabu-store",
+    "Version": "v2.0.4",
+    "Hash": "c6e74df",
+    "Dev": "master",
+    "Prod": "2.0"
+  },
+  {
+    "Module": "forge/lib/xcraft-core-host",
+    "Version": "v3.8.3",
+    "Hash": "d5ba1f0",
+    "Dev": "master",
+    "Prod": "3.8"
+  },
+  {
+    "Module": "forge/lib/goblin-configurator",
+    "Version": "v3.0.0",
+    "Hash": "3a7af87",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "forge/lib/goblin-overwatch",
+    "Version": "v2.0.3",
+    "Hash": "aa36082",
+    "Dev": "master",
+    "Prod": "2.0"
+  },
+  {
+    "Module": "forge/lib/xcraft-dev-fontawesome",
+    "Version": "v0.1.1",
+    "Hash": "20b6637",
+    "Dev": "master",
+    "Prod": "0.1"
+  },
+  {
+    "Module": "forge/lib/goblin-desktop-web",
+    "Version": "v2.0.0",
+    "Hash": "5a5b270",
+    "Dev": "master",
+    "Prod": "2.0"
+  },
+  {
+    "Module": "forge/lib/goblin-gadgets",
+    "Version": "v3.1.3",
+    "Hash": "8d8454a",
+    "Dev": "master",
+    "Prod": "3.1"
+  },
+  {
+    "Module": "forge/lib/xcraft-core-utils",
+    "Version": "v4.4.1",
+    "Hash": "08911bf",
+    "Dev": "master",
+    "Prod": "4.4"
+  },
+  {
+    "Module": "forge/lib/goblin-theme",
+    "Version": "v2.0.9",
+    "Hash": "3076ffe",
+    "Dev": "master",
+    "Prod": "2.0"
+  },
+  {
+    "Module": "forge/lib/goblin-tradingpost",
+    "Version": "v1.1.2",
+    "Hash": "dc424fe",
+    "Dev": "master",
+    "Prod": "1.1"
+  },
+  {
+    "Module": "forge/lib/goblin-rethink",
+    "Version": "v2.1.2",
+    "Hash": "da17905",
+    "Dev": "master",
+    "Prod": "2.1"
+  },
+  {
+    "Module": "forge-dev",
+    "Version": "v1.2.0",
+    "Hash": "b01442b",
+    "Dev": "master",
+    "Prod": "1.2"
+  },
+  {
+    "Module": "forge",
+    "Version": "v1.2.0",
+    "Hash": "5c5123c",
+    "Dev": "master",
+    "Prod": "1.2"
+  },
+  {
+    "Module": "forge/lib/goblin-desktop",
+    "Version": "v3.0.3",
+    "Hash": "6527667",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "forge/lib/goblin-laboratory",
+    "Version": "v3.0.0",
+    "Hash": "973bc35",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "forge/lib/xcraft-core-converters",
+    "Version": "v4.2.2",
+    "Hash": "6227713",
+    "Dev": "master",
+    "Prod": "4.2"
+  },
+  {
+    "Module": "forge/lib/goblin-nabu",
+    "Version": "v2.2.2",
+    "Hash": "372494a",
+    "Dev": "master",
+    "Prod": "2.2"
+  },
+  {
+    "Module": "forge/lib/goblin-client",
+    "Version": "v4.0.0",
+    "Hash": "368ecb1",
+    "Dev": "master",
+    "Prod": "4.0"
+  },
+  {
+    "Module": "forge/lib/goblin-wm",
+    "Version": "v2.5.0",
+    "Hash": "949da9d",
+    "Dev": "master",
+    "Prod": "2.5"
+  }
+]
